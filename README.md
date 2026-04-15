@@ -156,3 +156,18 @@ By improving visibility into production processes and decision-making, organisat
 /powerbi
 /screenshots
 README.md
+```
+
+🚀 Author
+
+Nwafor Franklin
+
+📧 fhranklyndre@gmail.com
+
+🔗 [LinkedIn](https://www.linkedin.com/in/nwaforfranklin100)
+
+GitHub
+
+⭐ If you found this useful…
+
+Feel free to star the repo or connect with me on LinkedIn!
